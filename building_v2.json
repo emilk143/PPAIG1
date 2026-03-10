@@ -1,0 +1,3716 @@
+{
+  "root": {
+    "parent": "none",
+    "resource": "root.glb",
+    "template": "T_root.glb",
+    "Pixel Pulse Gallery 1": {
+      "resource": "Pixel Pulse Gallery 1.glb",
+      "resource_type": "door"
+    },
+    "Pixel Pulse Gallery 2": {
+      "resource": "Pixel Pulse Gallery 2.glb",
+      "resource_type": "door"
+    },
+    "Pixel Pulse Gallery 3": {
+      "resource": "Pixel Pulse Gallery 3.glb",
+      "resource_type": "door"
+    },
+    "Pixel Pulse Gallery 4": {
+      "resource": "Pixel Pulse Gallery 4.glb",
+      "resource_type": "door"
+    }
+  },
+  "Pixel Pulse Gallery 1": {
+    "parent": "root",
+    "resource": "Pixel Pulse Gallery 1.glb",
+    "template": "T_pannels.glb",
+    "1 (399)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (399).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-27.711,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #0 1 (399)"
+    },
+    "1 (400)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (400).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[12.625,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #1 1 (400)"
+    },
+    "1 (401)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (401).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-12.625,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #2 1 (401)"
+    },
+    "1 (402)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (402).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-27.711,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #3 1 (402)"
+    },
+    "1 (403)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (403).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[12.625,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #4 1 (403)"
+    },
+    "1 (404)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (404).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-12.625,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #5 1 (404)"
+    },
+    "1 (405)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (405).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-24.632,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #6 1 (405)"
+    },
+    "1 (406)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (406).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-24.632,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #7 1 (406)"
+    },
+    "1 (407)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (407).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-21.553,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #8 1 (407)"
+    },
+    "1 (408)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (408).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-21.553,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #9 1 (408)"
+    },
+    "1 (409)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (409).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-18.474,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #10 1 (409)"
+    },
+    "1 (410)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (410).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-18.474,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #11 1 (410)"
+    },
+    "1 (711)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (711).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-15.395,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #12 1 (711)"
+    },
+    "1 (712)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (712).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-15.395,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #13 1 (712)"
+    },
+    "1 (713)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (713).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-12.316,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #14 1 (713)"
+    },
+    "1 (714)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (714).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-12.316,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #15 1 (714)"
+    },
+    "1 (715)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (715).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-9.237,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #16 1 (715)"
+    },
+    "1 (716)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (716).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-9.237,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #17 1 (716)"
+    },
+    "1 (717)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (717).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-6.158,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #18 1 (717)"
+    },
+    "1 (718)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (718).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-6.158,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #19 1 (718)"
+    },
+    "1 (719)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (719).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-3.079,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #20 1 (719)"
+    },
+    "1 (720)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (720).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-3.079,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #21 1 (720)"
+    },
+    "1 (721)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (721).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #22 1 (721)"
+    },
+    "1 (722)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (722).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-0.000,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #23 1 (722)"
+    },
+    "1 (723)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (723).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,3.079,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #24 1 (723)"
+    },
+    "1 (724)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (724).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,3.079,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #25 1 (724)"
+    },
+    "1 (725)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (725).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,6.158,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #26 1 (725)"
+    },
+    "1 (726)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (726).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,6.158,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #27 1 (726)"
+    },
+    "1 (727)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (727).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,9.237,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #28 1 (727)"
+    },
+    "1 (728)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (728).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,9.237,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #29 1 (728)"
+    },
+    "1 (729)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (729).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,12.316,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #30 1 (729)"
+    },
+    "1 (730)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (730).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,12.316,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #31 1 (730)"
+    },
+    "1 (731)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (731).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,15.395,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #32 1 (731)"
+    },
+    "1 (732)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (732).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,15.395,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #33 1 (732)"
+    },
+    "1 (733)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (733).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,18.473,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #34 1 (733)"
+    },
+    "1 (734)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (734).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,18.473,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #35 1 (734)"
+    },
+    "1 (735)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (735).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,21.552,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #36 1 (735)"
+    },
+    "1 (736)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (736).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[9.375,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #37 1 (736)"
+    },
+    "1 (737)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (737).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-9.375,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #38 1 (737)"
+    },
+    "1 (738)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (738).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,21.552,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #39 1 (738)"
+    },
+    "1 (739)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (739).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[9.375,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #40 1 (739)"
+    },
+    "1 (740)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (740).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-9.375,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #41 1 (740)"
+    },
+    "1 (741)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (741).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,24.631,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #42 1 (741)"
+    },
+    "1 (742)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (742).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.125,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #43 1 (742)"
+    },
+    "1 (743)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (743).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.125,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #44 1 (743)"
+    },
+    "1 (744)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (744).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,24.631,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #45 1 (744)"
+    },
+    "1 (745)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (745).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.125,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #46 1 (745)"
+    },
+    "1 (746)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (746).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.125,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #47 1 (746)"
+    },
+    "1 (747)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (747).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,27.710,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #48 1 (747)"
+    },
+    "1 (748)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (748).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[2.875,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #49 1 (748)"
+    },
+    "1 (749)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (749).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-2.875,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #50 1 (749)"
+    },
+    "1 (750)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (750).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,27.710,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #51 1 (750)"
+    },
+    "1 (751)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (751).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[2.875,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #52 1 (751)"
+    },
+    "1 (752)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (752).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-2.875,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #53 1 (752)"
+    },
+    "1 (753)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (753).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,9.937,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #54 1 (753)"
+    },
+    "1 (754)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (754).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,9.937,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #55 1 (754)"
+    },
+    "1 (755)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (755).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-20.063,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #56 1 (755)"
+    },
+    "1 (756)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (756).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-20.063,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #57 1 (756)"
+    },
+    "1 (757)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (757).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,9.937,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #58 1 (757)"
+    },
+    "1 (758)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (758).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-20.063,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #59 1 (758)"
+    },
+    "1 (759)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (759).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-20.063,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #60 1 (759)"
+    },
+    "1 (760)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (760).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,9.937,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #61 1 (760)"
+    },
+    "1 (761)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (761).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,13.312,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #62 1 (761)"
+    },
+    "1 (762)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (762).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,13.312,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #63 1 (762)"
+    },
+    "1 (763)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (763).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-16.688,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #64 1 (763)"
+    },
+    "1 (764)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (764).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-16.688,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #65 1 (764)"
+    },
+    "1 (765)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (765).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,13.312,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #66 1 (765)"
+    },
+    "1 (766)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (766).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-16.688,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #67 1 (766)"
+    },
+    "1 (767)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (767).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-16.688,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #68 1 (767)"
+    },
+    "1 (768)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (768).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,13.312,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #69 1 (768)"
+    },
+    "1 (769)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (769).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,16.687,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #70 1 (769)"
+    },
+    "1 (770)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (770).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,16.687,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #71 1 (770)"
+    },
+    "1 (771)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (771).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-13.313,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #72 1 (771)"
+    },
+    "1 (772)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (772).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-13.313,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #73 1 (772)"
+    },
+    "1 (773)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (773).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,16.687,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #74 1 (773)"
+    },
+    "1 (774)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (774).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-13.313,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #75 1 (774)"
+    },
+    "1 (775)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (775).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-13.313,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #76 1 (775)"
+    },
+    "1 (776)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (776).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,16.687,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #77 1 (776)"
+    },
+    "1 (777)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (777).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,20.062,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #78 1 (777)"
+    },
+    "1 (778)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (778).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,20.062,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #79 1 (778)"
+    },
+    "1 (779)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (779).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-9.938,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #80 1 (779)"
+    },
+    "1 (780)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (780).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-9.938,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #81 1 (780)"
+    },
+    "1 (781)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (781).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,20.062,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #82 1 (781)"
+    },
+    "1 (782)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (782).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-9.938,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #83 1 (782)"
+    },
+    "1 (783)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (783).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-9.938,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #84 1 (783)"
+    },
+    "1 (784)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (784).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,20.062,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #85 1 (784)"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    },
+    "Pixel Pulse Gallery 1#1": {
+      "resource": "Pixel Pulse Gallery 1#1.glb",
+      "resource_type": "door"
+    }
+  },
+  "Pixel Pulse Gallery 1#1": {
+    "parent": "Pixel Pulse Gallery 1",
+    "resource": "Pixel Pulse Gallery 1#1.glb",
+    "template": "T_small.glb",
+    "1 (785)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (785).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-11.875,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #86 1 (785)"
+    },
+    "1 (786)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (786).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[7.751,-15.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #87 1 (786)"
+    },
+    "1 (887)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (887).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-7.751,-15.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #88 1 (887)"
+    },
+    "1 (888)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (888).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-11.875,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #89 1 (888)"
+    },
+    "1 (889)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (889).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[7.751,15.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #90 1 (889)"
+    },
+    "1 (890)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (890).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-7.751,15.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #91 1 (890)"
+    },
+    "1 (891)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (891).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-7.125,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #92 1 (891)"
+    },
+    "1 (892)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (892).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-7.125,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #93 1 (892)"
+    },
+    "1 (893)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (893).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-2.375,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #94 1 (893)"
+    },
+    "1 (894)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (894).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-2.375,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #95 1 (894)"
+    },
+    "1 (895)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (895).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,2.375,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #96 1 (895)"
+    },
+    "1 (896)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (896).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,2.375,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #97 1 (896)"
+    },
+    "1 (897)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (897).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,7.125,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #98 1 (897)"
+    },
+    "1 (898)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (898).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,7.125,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #99 1 (898)"
+    },
+    "1 (899)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (899).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,11.875,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #100 1 (899)"
+    },
+    "1 (900)": {
+      "resource": "/Pixel Pulse Gallery 1/1 (900).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,11.875,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #101 1 (900)"
+    },
+    "Pixel Pulse Gallery 1": {
+      "resource": "Pixel Pulse Gallery 1.glb",
+      "resource_type": "door"
+    }
+  },
+  "Pixel Pulse Gallery 2": {
+    "parent": "root",
+    "resource": "Pixel Pulse Gallery 2.glb",
+    "template": "T_pannels.glb",
+    "1 (1)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (1).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[12.625,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #103 1 (1)"
+    },
+    "1 (10)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (10).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-12.625,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #104 1 (10)"
+    },
+    "1 (11)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (11).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-27.711,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #105 1 (11)"
+    },
+    "1 (12)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (12).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[12.625,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #106 1 (12)"
+    },
+    "1 (13)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (13).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-12.625,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #107 1 (13)"
+    },
+    "1 (14)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (14).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-24.632,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #108 1 (14)"
+    },
+    "1 (15)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (15).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-24.632,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #109 1 (15)"
+    },
+    "1 (16)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (16).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-21.553,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #110 1 (16)"
+    },
+    "1 (17)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (17).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-21.553,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #111 1 (17)"
+    },
+    "1 (18)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (18).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-18.474,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #112 1 (18)"
+    },
+    "1 (19)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (19).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-18.474,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #113 1 (19)"
+    },
+    "1 (2)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (2).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-15.395,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #115 1 (2)"
+    },
+    "1 (20)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (20).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-12.316,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #116 1 (20)"
+    },
+    "1 (21)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (21).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-12.316,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #117 1 (21)"
+    },
+    "1 (22)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (22).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-9.237,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #118 1 (22)"
+    },
+    "1 (23)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (23).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-9.237,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #119 1 (23)"
+    },
+    "1 (24)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (24).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-6.158,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #120 1 (24)"
+    },
+    "1 (25)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (25).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-6.158,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #121 1 (25)"
+    },
+    "1 (26)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (26).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-3.079,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #122 1 (26)"
+    },
+    "1 (27)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (27).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-3.079,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #123 1 (27)"
+    },
+    "1 (28)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (28).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #124 1 (28)"
+    },
+    "1 (29)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (29).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-0.000,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #125 1 (29)"
+    },
+    "1 (3)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (3).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,3.079,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #126 1 (3)"
+    },
+    "1 (30)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (30).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,3.079,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #127 1 (30)"
+    },
+    "1 (31)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (31).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,6.158,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #128 1 (31)"
+    },
+    "1 (32)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (32).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,6.158,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #129 1 (32)"
+    },
+    "1 (33)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (33).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,9.237,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #130 1 (33)"
+    },
+    "1 (34)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (34).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,9.237,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #131 1 (34)"
+    },
+    "1 (35)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (35).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,12.316,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #132 1 (35)"
+    },
+    "1 (36)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (36).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,12.316,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #133 1 (36)"
+    },
+    "1 (37)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (37).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,15.395,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #134 1 (37)"
+    },
+    "1 (38)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (38).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,15.395,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #135 1 (38)"
+    },
+    "1 (39)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (39).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,18.473,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #136 1 (39)"
+    },
+    "1 (4)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (4).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,18.473,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #137 1 (4)"
+    },
+    "1 (40)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (40).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,21.552,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #138 1 (40)"
+    },
+    "1 (41)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (41).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[9.375,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #139 1 (41)"
+    },
+    "1 (42)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (42).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-9.375,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #140 1 (42)"
+    },
+    "1 (43)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (43).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,21.552,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #141 1 (43)"
+    },
+    "1 (44)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (44).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[9.375,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #142 1 (44)"
+    },
+    "1 (45)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (45).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-9.375,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #143 1 (45)"
+    },
+    "1 (46)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (46).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,24.631,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #144 1 (46)"
+    },
+    "1 (47)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (47).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.125,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #145 1 (47)"
+    },
+    "1 (48)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (48).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.125,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #146 1 (48)"
+    },
+    "1 (49)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (49).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,24.631,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #147 1 (49)"
+    },
+    "1 (5)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (5).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.125,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #148 1 (5)"
+    },
+    "1 (50)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (50).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.125,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #149 1 (50)"
+    },
+    "1 (51)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (51).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,27.710,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #150 1 (51)"
+    },
+    "1 (52)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (52).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[2.875,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #151 1 (52)"
+    },
+    "1 (53)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (53).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-2.875,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #152 1 (53)"
+    },
+    "1 (54)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (54).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,27.710,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #153 1 (54)"
+    },
+    "1 (55)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (55).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[2.875,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #154 1 (55)"
+    },
+    "1 (56)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (56).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-2.875,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #155 1 (56)"
+    },
+    "1 (57)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (57).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,9.937,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #156 1 (57)"
+    },
+    "1 (58)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (58).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,9.937,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #157 1 (58)"
+    },
+    "1 (59)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (59).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-20.063,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #158 1 (59)"
+    },
+    "1 (6)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (6).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-20.063,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #159 1 (6)"
+    },
+    "1 (60)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (60).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,9.937,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #160 1 (60)"
+    },
+    "1 (61)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (61).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-20.063,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #161 1 (61)"
+    },
+    "1 (62)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (62).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-20.063,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #162 1 (62)"
+    },
+    "1 (63)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (63).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,9.937,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #163 1 (63)"
+    },
+    "1 (64)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (64).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,13.312,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #164 1 (64)"
+    },
+    "1 (65)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (65).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,13.312,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #165 1 (65)"
+    },
+    "1 (66)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (66).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-16.688,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #166 1 (66)"
+    },
+    "1 (67)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (67).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-16.688,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #167 1 (67)"
+    },
+    "1 (68)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (68).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,13.312,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #168 1 (68)"
+    },
+    "1 (69)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (69).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-16.688,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #169 1 (69)"
+    },
+    "1 (7)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (7).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-16.688,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #170 1 (7)"
+    },
+    "1 (70)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (70).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,13.312,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #171 1 (70)"
+    },
+    "1 (71)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (71).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,16.687,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #172 1 (71)"
+    },
+    "1 (72)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (72).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,16.687,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #173 1 (72)"
+    },
+    "1 (73)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (73).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-13.313,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #174 1 (73)"
+    },
+    "1 (74)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (74).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-13.313,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #175 1 (74)"
+    },
+    "1 (75)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (75).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,16.687,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #176 1 (75)"
+    },
+    "1 (76)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (76).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-13.313,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #177 1 (76)"
+    },
+    "1 (77)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (77).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-13.313,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #178 1 (77)"
+    },
+    "1 (78)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (78).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,16.687,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #179 1 (78)"
+    },
+    "1 (79)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (79).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,20.062,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #180 1 (79)"
+    },
+    "1 (8)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (8).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,20.062,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #181 1 (8)"
+    },
+    "1 (80)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (80).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-9.938,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #182 1 (80)"
+    },
+    "1 (81)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (81).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-9.938,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #183 1 (81)"
+    },
+    "1 (82)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (82).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,20.062,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #184 1 (82)"
+    },
+    "1 (83)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (83).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-9.938,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #185 1 (83)"
+    },
+    "1 (84)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (84).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-9.938,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #186 1 (84)"
+    },
+    "1 (85)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (85).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,20.062,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #187 1 (85)"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    },
+    "Pixel Pulse Gallery 2#1": {
+      "resource": "Pixel Pulse Gallery 2#1.glb",
+      "resource_type": "door"
+    }
+  },
+  "Pixel Pulse Gallery 2#1": {
+    "parent": "Pixel Pulse Gallery 2",
+    "resource": "Pixel Pulse Gallery 2#1.glb",
+    "template": "T_small.glb",
+    "1 (86)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (86).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-11.400,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #188 1 (86)"
+    },
+    "1 (87)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (87).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[7.751,-15.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #189 1 (87)"
+    },
+    "1 (88)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (88).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-7.751,-15.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #190 1 (88)"
+    },
+    "1 (89)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (89).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-11.400,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #191 1 (89)"
+    },
+    "1 (9)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (9).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[7.751,15.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #192 1 (9)"
+    },
+    "1 (90)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (90).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-7.751,15.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #193 1 (90)"
+    },
+    "1 (91)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (91).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-5.700,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #194 1 (91)"
+    },
+    "1 (92)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (92).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-5.700,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #195 1 (92)"
+    },
+    "1 (93)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (93).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #196 1 (93)"
+    },
+    "1 (94)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (94).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-0.000,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #197 1 (94)"
+    },
+    "1 (95)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (95).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,5.700,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #198 1 (95)"
+    },
+    "1 (96)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (96).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,5.700,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #199 1 (96)"
+    },
+    "1 (97)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (97).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,11.399,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #200 1 (97)"
+    },
+    "1 (98)": {
+      "resource": "/Pixel Pulse Gallery 2/1 (98).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,11.399,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #201 1 (98)"
+    },
+    "Pixel Pulse Gallery 2": {
+      "resource": "Pixel Pulse Gallery 2.glb",
+      "resource_type": "door"
+    }
+  },
+  "Pixel Pulse Gallery 3": {
+    "parent": "root",
+    "resource": "Pixel Pulse Gallery 3.glb",
+    "template": "T_pannels.glb",
+    "1 (100)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (100).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-27.711,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #202 1 (100)"
+    },
+    "1 (101)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (101).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[12.625,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #203 1 (101)"
+    },
+    "1 (102)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (102).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-12.625,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #204 1 (102)"
+    },
+    "1 (103)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (103).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-27.711,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #205 1 (103)"
+    },
+    "1 (104)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (104).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[12.625,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #206 1 (104)"
+    },
+    "1 (105)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (105).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-12.625,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #207 1 (105)"
+    },
+    "1 (106)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (106).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-24.632,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #208 1 (106)"
+    },
+    "1 (107)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (107).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-24.632,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #209 1 (107)"
+    },
+    "1 (108)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (108).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-21.553,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #210 1 (108)"
+    },
+    "1 (109)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (109).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-21.553,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #211 1 (109)"
+    },
+    "1 (110)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (110).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-18.474,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #212 1 (110)"
+    },
+    "1 (111)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (111).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-18.474,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #213 1 (111)"
+    },
+    "1 (112)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (112).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-15.395,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #214 1 (112)"
+    },
+    "1 (113)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (113).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-15.395,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #215 1 (113)"
+    },
+    "1 (114)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (114).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-12.316,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #216 1 (114)"
+    },
+    "1 (115)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (115).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-12.316,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #217 1 (115)"
+    },
+    "1 (116)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (116).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-9.237,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #218 1 (116)"
+    },
+    "1 (117)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (117).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-9.237,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #219 1 (117)"
+    },
+    "1 (118)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (118).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-6.158,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #220 1 (118)"
+    },
+    "1 (119)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (119).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-6.158,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #221 1 (119)"
+    },
+    "1 (120)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (120).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-3.079,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #222 1 (120)"
+    },
+    "1 (121)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (121).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-3.079,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #223 1 (121)"
+    },
+    "1 (122)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (122).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #224 1 (122)"
+    },
+    "1 (123)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (123).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-0.000,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #225 1 (123)"
+    },
+    "1 (124)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (124).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,3.079,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #226 1 (124)"
+    },
+    "1 (125)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (125).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,3.079,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #227 1 (125)"
+    },
+    "1 (126)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (126).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,6.158,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #228 1 (126)"
+    },
+    "1 (127)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (127).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,6.158,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #229 1 (127)"
+    },
+    "1 (128)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (128).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,9.237,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #230 1 (128)"
+    },
+    "1 (129)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (129).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,9.237,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #231 1 (129)"
+    },
+    "1 (130)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (130).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,12.316,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #232 1 (130)"
+    },
+    "1 (131)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (131).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,12.316,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #233 1 (131)"
+    },
+    "1 (132)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (132).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,15.395,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #234 1 (132)"
+    },
+    "1 (133)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (133).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,15.395,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #235 1 (133)"
+    },
+    "1 (134)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (134).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,18.473,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #236 1 (134)"
+    },
+    "1 (135)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (135).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,18.473,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #237 1 (135)"
+    },
+    "1 (136)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (136).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,21.552,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #238 1 (136)"
+    },
+    "1 (137)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (137).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[9.375,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #239 1 (137)"
+    },
+    "1 (138)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (138).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-9.375,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #240 1 (138)"
+    },
+    "1 (139)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (139).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,21.552,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #241 1 (139)"
+    },
+    "1 (140)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (140).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[9.375,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #242 1 (140)"
+    },
+    "1 (141)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (141).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-9.375,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #243 1 (141)"
+    },
+    "1 (142)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (142).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,24.631,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #244 1 (142)"
+    },
+    "1 (143)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (143).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.125,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #245 1 (143)"
+    },
+    "1 (144)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (144).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.125,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #246 1 (144)"
+    },
+    "1 (145)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (145).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,24.631,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #247 1 (145)"
+    },
+    "1 (146)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (146).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.125,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #248 1 (146)"
+    },
+    "1 (147)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (147).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.125,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #249 1 (147)"
+    },
+    "1 (148)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (148).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,27.710,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #250 1 (148)"
+    },
+    "1 (149)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (149).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[2.875,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #251 1 (149)"
+    },
+    "1 (150)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (150).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-2.875,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #252 1 (150)"
+    },
+    "1 (151)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (151).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,27.710,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #253 1 (151)"
+    },
+    "1 (152)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (152).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[2.875,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #254 1 (152)"
+    },
+    "1 (153)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (153).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-2.875,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #255 1 (153)"
+    },
+    "1 (154)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (154).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,9.937,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #256 1 (154)"
+    },
+    "1 (155)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (155).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,9.937,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #257 1 (155)"
+    },
+    "1 (156)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (156).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-20.063,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #258 1 (156)"
+    },
+    "1 (157)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (157).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-20.063,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #259 1 (157)"
+    },
+    "1 (158)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (158).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,9.937,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #260 1 (158)"
+    },
+    "1 (159)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (159).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-20.063,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #261 1 (159)"
+    },
+    "1 (160)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (160).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-20.063,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #262 1 (160)"
+    },
+    "1 (161)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (161).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,9.937,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #263 1 (161)"
+    },
+    "1 (162)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (162).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,13.312,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #264 1 (162)"
+    },
+    "1 (163)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (163).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,13.312,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #265 1 (163)"
+    },
+    "1 (164)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (164).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-16.688,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #266 1 (164)"
+    },
+    "1 (165)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (165).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-16.688,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #267 1 (165)"
+    },
+    "1 (166)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (166).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,13.312,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #268 1 (166)"
+    },
+    "1 (167)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (167).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-16.688,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #269 1 (167)"
+    },
+    "1 (168)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (168).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-16.688,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #270 1 (168)"
+    },
+    "1 (169)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (169).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,13.312,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #271 1 (169)"
+    },
+    "1 (170)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (170).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,16.687,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #272 1 (170)"
+    },
+    "1 (171)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (171).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,16.687,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #273 1 (171)"
+    },
+    "1 (172)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (172).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-13.313,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #274 1 (172)"
+    },
+    "1 (173)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (173).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-13.313,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #275 1 (173)"
+    },
+    "1 (174)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (174).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,16.687,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #276 1 (174)"
+    },
+    "1 (175)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (175).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-13.313,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #277 1 (175)"
+    },
+    "1 (176)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (176).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-13.313,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #278 1 (176)"
+    },
+    "1 (177)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (177).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,16.687,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #279 1 (177)"
+    },
+    "1 (178)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (178).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,20.062,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #280 1 (178)"
+    },
+    "1 (179)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (179).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,20.062,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #281 1 (179)"
+    },
+    "1 (180)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (180).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-9.938,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #282 1 (180)"
+    },
+    "1 (181)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (181).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-9.938,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #283 1 (181)"
+    },
+    "1 (182)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (182).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,20.062,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #284 1 (182)"
+    },
+    "1 (183)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (183).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-9.938,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #285 1 (183)"
+    },
+    "1 (184)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (184).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-9.938,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #286 1 (184)"
+    },
+    "1 (185)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (185).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,20.062,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #287 1 (185)"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    },
+    "Pixel Pulse Gallery 3#1": {
+      "resource": "Pixel Pulse Gallery 3#1.glb",
+      "resource_type": "door"
+    }
+  },
+  "Pixel Pulse Gallery 3#1": {
+    "parent": "Pixel Pulse Gallery 3",
+    "resource": "Pixel Pulse Gallery 3#1.glb",
+    "template": "T_small.glb",
+    "1 (186)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (186).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-11.400,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #288 1 (186)"
+    },
+    "1 (187)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (187).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[7.751,-15.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #289 1 (187)"
+    },
+    "1 (188)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (188).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-7.751,-15.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #290 1 (188)"
+    },
+    "1 (189)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (189).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-11.400,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #291 1 (189)"
+    },
+    "1 (190)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (190).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[7.751,15.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #292 1 (190)"
+    },
+    "1 (191)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (191).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-7.751,15.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #293 1 (191)"
+    },
+    "1 (192)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (192).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-5.700,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #294 1 (192)"
+    },
+    "1 (193)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (193).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-5.700,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #295 1 (193)"
+    },
+    "1 (194)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (194).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #296 1 (194)"
+    },
+    "1 (195)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (195).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-0.000,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #297 1 (195)"
+    },
+    "1 (196)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (196).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,5.700,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #298 1 (196)"
+    },
+    "1 (197)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (197).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,5.700,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #299 1 (197)"
+    },
+    "1 (198)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (198).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,11.399,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #300 1 (198)"
+    },
+    "1 (99)": {
+      "resource": "/Pixel Pulse Gallery 3/1 (99).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,11.399,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #301 1 (99)"
+    },
+    "Pixel Pulse Gallery 3": {
+      "resource": "Pixel Pulse Gallery 3.glb",
+      "resource_type": "door"
+    }
+  },
+  "Pixel Pulse Gallery 4": {
+    "parent": "root",
+    "resource": "Pixel Pulse Gallery 4.glb",
+    "template": "T_pannels.glb",
+    "1 (287)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (287).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-27.711,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #302 1 (287)"
+    },
+    "1 (288)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (288).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[12.625,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #303 1 (288)"
+    },
+    "1 (289)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (289).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-12.625,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #304 1 (289)"
+    },
+    "1 (290)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (290).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-27.711,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #305 1 (290)"
+    },
+    "1 (291)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (291).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[12.625,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #306 1 (291)"
+    },
+    "1 (292)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (292).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-12.625,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #307 1 (292)"
+    },
+    "1 (293)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (293).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-24.632,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #308 1 (293)"
+    },
+    "1 (294)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (294).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-24.632,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #309 1 (294)"
+    },
+    "1 (295)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (295).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-21.553,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #310 1 (295)"
+    },
+    "1 (296)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (296).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-21.553,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #311 1 (296)"
+    },
+    "1 (297)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (297).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-18.474,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #312 1 (297)"
+    },
+    "1 (298)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (298).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-18.474,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #313 1 (298)"
+    },
+    "1 (299)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (299).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-15.395,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #314 1 (299)"
+    },
+    "1 (300)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (300).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-15.395,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #315 1 (300)"
+    },
+    "1 (301)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (301).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-12.316,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #316 1 (301)"
+    },
+    "1 (302)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (302).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-12.316,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #317 1 (302)"
+    },
+    "1 (303)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (303).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-9.237,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #318 1 (303)"
+    },
+    "1 (304)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (304).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-9.237,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #319 1 (304)"
+    },
+    "1 (305)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (305).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-6.158,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #320 1 (305)"
+    },
+    "1 (306)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (306).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-6.158,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #321 1 (306)"
+    },
+    "1 (307)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (307).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-3.079,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #322 1 (307)"
+    },
+    "1 (308)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (308).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-3.079,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #323 1 (308)"
+    },
+    "1 (309)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (309).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #324 1 (309)"
+    },
+    "1 (310)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (310).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-0.000,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #325 1 (310)"
+    },
+    "1 (311)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (311).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,3.079,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #326 1 (311)"
+    },
+    "1 (312)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (312).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,3.079,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #327 1 (312)"
+    },
+    "1 (313)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (313).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,6.158,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #328 1 (313)"
+    },
+    "1 (314)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (314).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,6.158,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #329 1 (314)"
+    },
+    "1 (315)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (315).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,9.237,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #330 1 (315)"
+    },
+    "1 (316)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (316).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,9.237,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #331 1 (316)"
+    },
+    "1 (317)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (317).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,12.316,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #332 1 (317)"
+    },
+    "1 (318)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (318).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,12.316,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #333 1 (318)"
+    },
+    "1 (319)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (319).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,15.395,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #334 1 (319)"
+    },
+    "1 (320)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (320).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,15.395,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #335 1 (320)"
+    },
+    "1 (321)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (321).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,18.473,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #336 1 (321)"
+    },
+    "1 (322)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (322).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,18.473,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #337 1 (322)"
+    },
+    "1 (323)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (323).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,21.552,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #338 1 (323)"
+    },
+    "1 (324)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (324).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[9.375,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #339 1 (324)"
+    },
+    "1 (325)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (325).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-9.375,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #340 1 (325)"
+    },
+    "1 (326)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (326).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,21.552,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #341 1 (326)"
+    },
+    "1 (327)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (327).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[9.375,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #342 1 (327)"
+    },
+    "1 (328)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (328).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-9.375,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #343 1 (328)"
+    },
+    "1 (329)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (329).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,24.631,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #344 1 (329)"
+    },
+    "1 (330)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (330).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.125,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #345 1 (330)"
+    },
+    "1 (331)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (331).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.125,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #346 1 (331)"
+    },
+    "1 (332)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (332).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,24.631,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #347 1 (332)"
+    },
+    "1 (333)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (333).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.125,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #348 1 (333)"
+    },
+    "1 (334)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (334).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.125,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #349 1 (334)"
+    },
+    "1 (335)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (335).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,27.710,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #350 1 (335)"
+    },
+    "1 (336)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (336).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[2.875,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #351 1 (336)"
+    },
+    "1 (337)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (337).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-2.875,-30.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #352 1 (337)"
+    },
+    "1 (338)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (338).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,27.710,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #353 1 (338)"
+    },
+    "1 (339)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (339).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[2.875,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #354 1 (339)"
+    },
+    "1 (340)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (340).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-2.875,30.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #355 1 (340)"
+    },
+    "1 (341)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (341).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,9.937,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #356 1 (341)"
+    },
+    "1 (342)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (342).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,9.937,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #357 1 (342)"
+    },
+    "1 (343)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (343).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-20.063,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #358 1 (343)"
+    },
+    "1 (344)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (344).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-20.063,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #359 1 (344)"
+    },
+    "1 (345)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (345).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,9.937,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #360 1 (345)"
+    },
+    "1 (346)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (346).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-20.063,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #361 1 (346)"
+    },
+    "1 (347)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (347).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-20.063,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #362 1 (347)"
+    },
+    "1 (348)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (348).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,9.937,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #363 1 (348)"
+    },
+    "1 (349)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (349).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,13.312,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #364 1 (349)"
+    },
+    "1 (350)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (350).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,13.312,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #365 1 (350)"
+    },
+    "1 (351)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (351).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-16.688,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #366 1 (351)"
+    },
+    "1 (352)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (352).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-16.688,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #367 1 (352)"
+    },
+    "1 (353)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (353).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,13.312,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #368 1 (353)"
+    },
+    "1 (354)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (354).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-16.688,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #369 1 (354)"
+    },
+    "1 (355)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (355).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-16.688,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #370 1 (355)"
+    },
+    "1 (356)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (356).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,13.312,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #371 1 (356)"
+    },
+    "1 (357)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (357).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,16.687,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #372 1 (357)"
+    },
+    "1 (358)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (358).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,16.687,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #373 1 (358)"
+    },
+    "1 (359)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (359).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-13.313,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #374 1 (359)"
+    },
+    "1 (360)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (360).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-13.313,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #375 1 (360)"
+    },
+    "1 (361)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (361).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,16.687,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #376 1 (361)"
+    },
+    "1 (362)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (362).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-13.313,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #377 1 (362)"
+    },
+    "1 (363)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (363).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-13.313,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #378 1 (363)"
+    },
+    "1 (364)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (364).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,16.687,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #379 1 (364)"
+    },
+    "1 (365)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (365).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,20.062,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #380 1 (365)"
+    },
+    "1 (366)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (366).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,20.062,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #381 1 (366)"
+    },
+    "1 (367)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (367).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-5.750,-9.938,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #382 1 (367)"
+    },
+    "1 (368)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (368).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[5.750,-9.938,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #383 1 (368)"
+    },
+    "1 (369)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (369).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,20.062,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #384 1 (369)"
+    },
+    "1 (370)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (370).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-6.250,-9.938,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #385 1 (370)"
+    },
+    "1 (371)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (371).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,-9.938,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #386 1 (371)"
+    },
+    "1 (372)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (372).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[6.250,20.062,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #387 1 (372)"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    },
+    "Pixel Pulse Gallery 4#1": {
+      "resource": "Pixel Pulse Gallery 4#1.glb",
+      "resource_type": "door"
+    }
+  },
+  "Pixel Pulse Gallery 4#1": {
+    "parent": "Pixel Pulse Gallery 4",
+    "resource": "Pixel Pulse Gallery 4#1.glb",
+    "template": "T_small.glb",
+    "1 (373)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (373).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-11.400,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #388 1 (373)"
+    },
+    "1 (374)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (374).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[7.751,-15.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #389 1 (374)"
+    },
+    "1 (375)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (375).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-7.751,-15.000,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #390 1 (375)"
+    },
+    "1 (376)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (376).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-11.400,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #391 1 (376)"
+    },
+    "1 (377)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (377).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[7.751,15.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #392 1 (377)"
+    },
+    "1 (378)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (378).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-7.751,15.000,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #393 1 (378)"
+    },
+    "1 (379)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (379).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-5.700,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #394 1 (379)"
+    },
+    "1 (380)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (380).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-5.700,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #395 1 (380)"
+    },
+    "1 (381)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (381).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,-0.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #396 1 (381)"
+    },
+    "1 (382)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (382).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,-0.000,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #397 1 (382)"
+    },
+    "1 (383)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (383).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,5.700,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #398 1 (383)"
+    },
+    "1 (384)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (384).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,5.700,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #399 1 (384)"
+    },
+    "1 (385)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (385).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[15.000,11.399,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #400 1 (385)"
+    },
+    "1 (386)": {
+      "resource": "/Pixel Pulse Gallery 4/1 (386).png",
+      "resource_type": "image",
+      "width": "1.00",
+      "height": "1.00",
+      "location": "[-15.000,11.399,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #401 1 (386)"
+    },
+    "Pixel Pulse Gallery 4": {
+      "resource": "Pixel Pulse Gallery 4.glb",
+      "resource_type": "door"
+    }
+  },
+  "Technical": {
+    "ambientLight": 0.5,
+    "pointLight": 50,
+    "scaleFactor": 2.5
+  }
+}
