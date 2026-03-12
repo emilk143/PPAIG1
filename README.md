@@ -8,14 +8,29 @@ Your virtual 3D art gallery is ready to deploy!
 2. Open viewer.html in a browser (or serve with any web server)
 
 Your images are already included in the ZIP under these folders:
-- Pixel Pulse Gallery 1/
-- Pixel Pulse Gallery 1#1/
-- Pixel Pulse Gallery 2/
-- Pixel Pulse Gallery 2#1/
-- Pixel Pulse Gallery 3/
-- Pixel Pulse Gallery 3#1/
-- Pixel Pulse Gallery 4/
-- Pixel Pulse Gallery 4#1/
+- Exhibit/
+- Exhibit#1/
+- Exhibit (2)/
+- Exhibit (2)#1/
+- Exhibit (3)/
+- Exhibit (4)/
+- Exhibit (4)#1/
+- Exhibit (5)/
+- Exhibit (5)#1/
+- Exhibit (6)/
+- Exhibit (7)/
+- Exhibit (7)#1/
+- Exhibit (8)/
+- Exhibit (8)#1/
+- Exhibit (9)/
+- Exhibit (9)#1/
+- Exhibit (10)/
+- Exhibit (10)#1/
+- Exhibit (11)/
+- Exhibit (11)#1/
+- Exhibit (12)/
+- Exhibit (12)#1/
+- Exhibit (13)/
 
 ## Folder Structure
 
@@ -26,14 +41,29 @@ your-gallery/
 ├── declarations.js     # Path configuration
 ├── templates/          # 3D room templates
 ├── materials/          # Textures and materials
-├── Pixel Pulse Gallery 1/               # Your images
-├── Pixel Pulse Gallery 1#1/               # Your images
-├── Pixel Pulse Gallery 2/               # Your images
-├── Pixel Pulse Gallery 2#1/               # Your images
-├── Pixel Pulse Gallery 3/               # Your images
-├── Pixel Pulse Gallery 3#1/               # Your images
-├── Pixel Pulse Gallery 4/               # Your images
-├── Pixel Pulse Gallery 4#1/               # Your images
+├── Exhibit/               # Your images
+├── Exhibit#1/               # Your images
+├── Exhibit (2)/               # Your images
+├── Exhibit (2)#1/               # Your images
+├── Exhibit (3)/               # Your images
+├── Exhibit (4)/               # Your images
+├── Exhibit (4)#1/               # Your images
+├── Exhibit (5)/               # Your images
+├── Exhibit (5)#1/               # Your images
+├── Exhibit (6)/               # Your images
+├── Exhibit (7)/               # Your images
+├── Exhibit (7)#1/               # Your images
+├── Exhibit (8)/               # Your images
+├── Exhibit (8)#1/               # Your images
+├── Exhibit (9)/               # Your images
+├── Exhibit (9)#1/               # Your images
+├── Exhibit (10)/               # Your images
+├── Exhibit (10)#1/               # Your images
+├── Exhibit (11)/               # Your images
+├── Exhibit (11)#1/               # Your images
+├── Exhibit (12)/               # Your images
+├── Exhibit (12)#1/               # Your images
+├── Exhibit (13)/               # Your images
 ├── overlay.js          # UI overlay
 ├── overlay.css         # UI styles
 └── babylon.js          # 3D engine
